@@ -1,2 +1,3 @@
 # algorithm-mastery
-Personal algorithm grind log for summer 2025
+
+Personal algorithm grind log, progression, and to practice Git/Github.
