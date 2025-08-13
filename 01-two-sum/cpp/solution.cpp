@@ -3,9 +3,7 @@
 #include <unordered_map> // dict in python
 using namespace std;
 
-// Example: Two Sum
 vector<int> twoSum(const vector<int>& nums, int target) {
-    // TODO: Implement solution
     unordered_map<int, int> seen;
     int difference;
     for (size_t i = 0; i < nums.size(); ++i) {
