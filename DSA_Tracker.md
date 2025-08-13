@@ -5,7 +5,7 @@ A lifelong log of algorithm practice — sharpening problem-solving skills and c
 
 | #  | Problem Name | Topic/Category     | Status | Date Completed | Notes |
 |----|--------------|--------------------|--------|----------------|-------|
-| 1  | Two Sum      | Arrays & Hashing   | [ ]    |                |       |
+| 1  | Two Sum      | Arrays & Hashing   | [X]    |    20250813     |       |
 | 2  | Contains Duplicate | Arrays & Hashing | [ ] |              |       |
 | 3  | Valid Anagram | Arrays & Hashing  | [ ]    |                |       |
 | 4  | Product of Array Except Self | Arrays & Hashing | [ ] |       |       |
