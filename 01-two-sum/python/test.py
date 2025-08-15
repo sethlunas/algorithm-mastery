@@ -11,9 +11,9 @@ def run_tests():
     for i, (nums, target, expected) in enumerate(tests, 1):
         result = solution.two_sum(nums, target)
         if result == expected or result == expected[::-1]:  # order doesn't matter
-            print(f"✅ Test {i} passed")
+            print(f"Test {i} passed")
         else:
-            print(f"❌ Test {i} failed: got {result}, expected {expected}")
+            print(f"Test {i} failed: got {result}, expected {expected}")
 
 if __name__ == "__main__":
     run_tests()
