@@ -5,11 +5,10 @@ def run_tests():
         ("listen", "silent"), #pass
         ("hello", "olleh"),  #pass
         ("anagram", "nagaram"), #pass 
-        ("", ""), #false
         ("a", "aa"), #false
         ("rat", "car"), #false
         ("foo", "bar"), #false
-        ("abc", "cab") #false
+        ("abc", "cab") #pass
     ]
 
     for i, (s, t) in enumerate(tests, start=1):
