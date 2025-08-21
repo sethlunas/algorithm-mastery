@@ -7,7 +7,7 @@ A lifelong log of algorithm practice — sharpening problem-solving skills and c
 |----|--------------|--------------------|--------|----------------|-------|
 | 1  | Two Sum      | Arrays & Hashing   | [X]    |    20250813     |       |
 | 2  | Contains Duplicate | Arrays & Hashing | [X] |   20250816     |       |
-| 3  | Valid Anagram | Arrays & Hashing  | [ ]    |                |       |
+| 3  | Valid Anagram | Arrays & Hashing  | [X]    |     20250820     |       |
 | 4  | Product of Array Except Self | Arrays & Hashing | [ ] |       |       |
 | 5  | Valid Palindrome | Two Pointers   | [ ]    |                |       |
 | 6  | Three Sum     | Two Pointers      | [ ]    |                |       |
