@@ -32,6 +32,8 @@ Initial Approach:
     - first loop: result = [1, 1, 2, 6]
     - second loop: result = [24, 12, 8, 6]
 - example2:
-    - Input: nums = [-1,1,0,-3,3]
-    - first loop: result = [-1, -1, -1, 0, 0]
+    - Input: nums = [-1, 1, 0, -3, 3]
+    - first loop: result = [1, -1, -1, 0, 0]
     - second loop: result = [0, 0, 9, 0, 0]
+  
+Pattern: Prefix/Suffix Accumulation (Two-Pass scan)
