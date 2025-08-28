@@ -37,3 +37,7 @@ Initial Approach:
     - second loop: result = [0, 0, 9, 0, 0]
   
 Pattern: Prefix/Suffix Accumulation (Two-Pass scan)
+
+_Why no division_?
+
+The "multiply everything then divide by nums[i]" idea breaks on zeros (division by zero), can overflow in fixed-width integer languages, and invites float rounding hacks. The two-pass left/right product avoids these issues and generalizes to other problems.
