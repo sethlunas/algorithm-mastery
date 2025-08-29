@@ -12,10 +12,10 @@ std::vector<int> product_except_self(const std::vector<int>& nums) {
     
     // Second pass
     int suffix = 1;
-    for (size_t i = n - 1; i >= 0; --i) {
-        suffix *= nums[i + 1];
+    for (size_t i = n; i-- > 0;) {
         answer[i] *= suffix;
+        suffix *= nums[i];
     }
 
-    return {};
+    return answer;
 }
