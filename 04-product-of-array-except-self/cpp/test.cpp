@@ -57,7 +57,7 @@ ostream& operator<<(ostream& os, const tuple<Args...>& t) {
 
 
 void test() {
-
+    
     vector<tuple<vector<int>, vector<int>>> cases = {
         {{1, 2, 3, 4}, {24, 12, 8, 6}},
         {{1, 2, 0, 4}, {0, 0, 8, 0}},
