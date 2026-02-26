@@ -25,7 +25,3 @@ def productExceptSelf(nums: list[int]) -> list[int]:
 
     return result
 
-if __name__ == "__main__":
-    test_nums = [1, 2, 3, 4]
-    result = productExceptSelf(test_nums)
-    print("Result:", result)

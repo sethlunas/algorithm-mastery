@@ -16,7 +16,7 @@ Foundation of almost every problem - learn to manipulate, traverse, and optimize
 |---|---------|-----------|--------|------|-------|
 | 01 | Two Sum | Easy | [ X ] | 2026-02-23 | Python & C++ complete |
 | 02 | Best Time to Buy & Sell Stock | Easy | [ X ] | 2026-02-24 | Py & Cpp complete |
-| 03 | Product of Array Except Self | Medium | [ ] | | |
+| 03 | Product of Array Except Self | Medium | [ X ] | 2026-02-26 | Py & Cpp complete |
 | 04 | Maximum Subarray (Kadane's) | Medium | [ ] | | |
 
 ---
